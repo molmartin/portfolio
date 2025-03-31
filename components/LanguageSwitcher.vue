@@ -1,11 +1,10 @@
 <template>
-  <section class="flex gap-2">
+  <section>
     <NuxtLink
       v-for="availableLocale in availableLocales"
       :key="availableLocale"
-      class="cursor-pointer"
       :class="[
-        'cursor-pointer',
+        'cursor-pointer hover:grayscale-0 transition duration-200 ml-2',
         {
           grayscale: availableLocale !== locale,
         },

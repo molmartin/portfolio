@@ -10,32 +10,20 @@
             <p class="text-xl mt-2 font-normal">Frontend Developer</p>
           </div>
           <div class="flex flex-wrap gap-6 md:gap-8 mt-2">
-            <div class="flex items-center flex-col md:flex-row">
-              <Icon name="mdi:email" class="mr-1" />
-              <a
-                href="mailto:mol1@seznam.cz"
-                class="hover:text-green-400 transition-colors duration-300"
-                >mol1@seznam.cz</a
-              >
-            </div>
-            <div class="flex items-center">
-              <Icon name="mdi:phone" class="mr-1" />
-              <a
-                href="tel:+420737664469"
-                class="hover:text-green-400 transition-colors duration-300"
-                >+420 737 664 469</a
-              >
-            </div>
-            <div class="flex items-center">
-              <Icon name="mdi:github" class="mr-1" />
-              <a
-                href="https://github.com/molmartin"
-                target="_blank"
-                class="hover:text-green-400 transition-colors duration-300"
-              >
-                github.com/molmartin
-              </a>
-            </div>
+            <HeaderLink icon="mdi:email" href="mailto:mol1@seznam.cz" text="mol1@seznam.cz" />
+            <!-- <HeaderLink icon="mdi:phone" href="tel:+420737664469" text="+420 737 664 469" /> -->
+            <HeaderLink
+              icon="mdi:linkedin"
+              href="https://www.linkedin.com/in/martin-mol-9bb9b04b/"
+              text="Linkedin"
+              external
+            />
+            <HeaderLink
+              icon="mdi:github"
+              href="https://github.com/molmartin"
+              text="github.com/molmartin"
+              external
+            />
           </div>
         </div>
         <LanguageSwitcher />

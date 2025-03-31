@@ -12,7 +12,7 @@
         :subtitle="item.subtitle"
         :date="item.date"
       >
-        <p>
+        <p class="whitespace-pre-line">
           {{ item.description }}
         </p>
       </TimelineItem>
