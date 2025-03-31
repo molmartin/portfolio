@@ -1,20 +1,23 @@
 <template>
-  <section>
+  <section class="flex gap-2">
     <NuxtLink
       v-for="availableLocale in availableLocales"
       :key="availableLocale"
-      class="px-4 py-1 rounded-full text-sm border border-[#00865b] transition-colors cursor-pointer"
-      :class="
-        availableLocale === locale ? 'bg-[#00865b] text-white' : 'bg-opacity-20 text-[#00865b]'
-      "
+      class="cursor-pointer"
+      :class="[
+        'cursor-pointer',
+        {
+          grayscale: availableLocale !== locale,
+        },
+      ]"
       @click="setLocale(availableLocale)"
     >
-      {{ t(`language.${availableLocale}`) }}
+      <Icon v-if="availableLocale === 'cs'" name="circle-flags:cz" size="2em" />
+      <Icon v-else name="circle-flags:en" size="2em" />
     </NuxtLink>
   </section>
 </template>
 
 <script lang="ts" setup>
-const { setLocale, availableLocales, locale, t } = useI18n()
-//TODO tailwind
+const { setLocale, availableLocales, locale } = useI18n()
 </script>

@@ -1,7 +1,5 @@
 <template>
   <div>
-    <!-- 
-    <PageHeader /> -->
     <PortfolioHeader />
     <MainContainer>
       <main class="p-10 md:p-5">
