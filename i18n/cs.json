@@ -1,0 +1,87 @@
+{
+  "language": {
+    "cs": "Česky",
+    "en": "English"
+  },
+  "header": {
+    "title": "Martin Mol",
+    "job": "Frontend Developer",
+    "email": "mol1{'@'}seznam.cz",
+    "phone": "737 664 469",
+    "address": "🏠 Postřižín, ČR | 👤 nar. 1991"
+  },
+  "experience": "Pracovní zkušenosti",
+  "workExperience": [
+    {
+      "title": "Frontend developer",
+      "subtitle": "Košík.cz",
+      "date": "leden 2023 – dosud (2 roky a 3 měsíce)",
+      "description": "Vývoj online shopu, především delivery (sloty doručení, trackování objednávky, redesign)"
+    },
+    {
+      "title": "Frontend developer",
+      "subtitle": "Livesystems s.r.o",
+      "date": "srpen 2022 – listopad 2022 (4 měsíce)",
+      "description": "- Landing page pro uchazeče v akcenta.digital\n- Zaměstnanecký systém Senecura"
+    },
+    {
+      "title": "Frontend developer",
+      "subtitle": "MALL a.s.",
+      "date": "duben 2020 – červenec 2022 (2 roky a 4 měsíce)",
+      "description": "Vývoj FE na landing page pro partnery\nVývoj FE portálu pro partnery na správu zboží na MALL.cz\nVývoj FE interního admin portálu pro MALL"
+    },
+    {
+      "title": "Konzultant rozvoje IS senior",
+      "subtitle": "ČEZ ICT services",
+      "date": "červen 2016 – březen 2020 (3 roky a 10 měsíců)",
+      "description": "Fullstack developer (C#, Java, MSSQL, Vue, React)\nTestování, konzultace a analýza řešení interních procesů\nVývoj interních systémů\nPoC IoT technologie - bezpečná domácnost"
+    },
+    {
+      "title": "Programátor / analytik",
+      "subtitle": "Kontis s.r.o",
+      "date": "leden 2014 – květen 2016 (2 roky a 5 měsíců)",
+      "description": "Webmaster, vývoj elearningového systému iTutor (ASP, javascript, MSSQL)\nEshop elearningových kurzů Educake (C#, javascript)"
+    }
+  ],
+  "education": "Vzdělání",
+  "educationDetails": [
+    {
+      "title": "Fakulta informatiky a statistiky, VŠE Praha",
+      "subtitle": "Kognitivní informatika",
+      "date": "září 2015 – červen 2017 | Vysokoškolské"
+    },
+    {
+      "title": "Fakulta informatiky a statistiky, VŠE Praha",
+      "subtitle": "Aplikovaná informatika",
+      "date": "2010 – 2014 | Bakalářské"
+    },
+    {
+      "title": "Střední průmyslová škola elektrotechnická, Praha 2, Ječná 30",
+      "subtitle": "Informační technologie (Programování a digitální technologie)",
+      "date": "září 2006 – červen 2010 | SŠ s maturitou"
+    }
+  ],
+  "skills": "Dovednosti a znalosti",
+  "technicalSkills": "Technické znalosti",
+  "languages": "Jazyky",
+  "strengths": "Silné stránky",
+  "offers": "Mohu nabídnout",
+  "interests": "Zájmy",
+  "other": "Další informace",
+  "driversLicense": "Řidičský průkaz",
+  "driversLicenseDetails": "Skupina B - osobní auta",
+  "languagesList": ["Čeština - výborná (rodilý mluvčí)", "Angličtina - středně pokročilá"],
+  "strenghtList": [
+    "Aktivní přístup",
+    "Ochota učit se",
+    "Pracovitost",
+    "Samostatnost",
+    "Spolehlivost, zodpovědnost"
+  ],
+  "offerList": [
+    "Logické myšlení",
+    "Řešení problémů pomocí kritického myšlení",
+    "Schopnost práce v kolektivu a týmové práce"
+  ],
+  "interestsList": ["Karetní hry", "Programování", "Deskové hry", "Hudba", "Výlety"]
+}

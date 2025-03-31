@@ -1,0 +1,88 @@
+{
+  "language": {
+    "cs": "Česky",
+    "en": "English"
+  },
+  "header": {
+    "title": "Martin Mol",
+    "job": "Frontend Developer",
+    "email": "mol1{'@'}seznam.cz",
+    "phone": "737 664 469",
+    "address": "🏠 Postřižín, CZ | 👤 born 1991"
+  },
+  "experience": "Work Experience",
+  "workExperience": [
+    {
+      "title": "Frontend developer",
+      "subtitle": "Košík.cz",
+      "date": "January 2023 – Present (2 years 3 months)",
+      "description": "Online shop development, primarily delivery features (delivery slots, order tracking, redesign)"
+    },
+    {
+      "title": "Frontend developer",
+      "subtitle": "Livesystems s.r.o",
+      "date": "August 2022 – November 2022 (4 months)",
+      "description": "- Landing page for applicants at akcenta.digital\n- Employee system for Senecura"
+    },
+    {
+      "title": "Frontend developer",
+      "subtitle": "MALL a.s.",
+      "date": "April 2020 – July 2022 (2 years 4 months)",
+      "description": "Frontend development of landing page for partners\nFrontend development of partner portal for product management on MALL.cz\nFrontend development of internal admin portal for MALL"
+    },
+    {
+      "title": "Senior IS Development Consultant",
+      "subtitle": "ČEZ ICT services",
+      "date": "June 2016 – March 2020 (3 years 10 months)",
+      "description": "Fullstack developer (C#, Java, MSSQL, Vue, React)\nTesting, consultation and analysis of internal process solutions\nDevelopment of internal systems\nPoC IoT technology - safe home"
+    },
+    {
+      "title": "Programmer / Analyst",
+      "subtitle": "Kontis s.r.o",
+      "date": "January 2014 – May 2016 (2 years 5 months)",
+      "description": "Webmaster, development of iTutor e-learning system (ASP, javascript, MSSQL)\nE-shop for Educake e-learning courses (C#, javascript)"
+    }
+  ],
+  "education": "Education",
+  "educationDetails": [
+    {
+      "title": "Faculty of Informatics and Statistics, VŠE Prague",
+      "subtitle": "Cognitive Informatics",
+      "date": "September 2015 – June 2017 | Master's degree"
+    },
+    {
+      "title": "Faculty of Informatics and Statistics, VŠE Prague",
+      "subtitle": "Applied Informatics",
+      "date": "2010 – 2014 | Bachelor's degree"
+    },
+    {
+      "title": "Secondary School of Electrical Engineering, Prague 2, Ječná 30",
+      "subtitle": "Information Technology (Programming and Digital Technology)",
+      "date": "September 2006 – June 2010 | High school with graduation"
+    }
+  ],
+  "skills": "Skills and Knowledge",
+  "technicalSkills": "Technical Skills",
+  "languages": "Languages",
+  "strengths": "Strengths",
+  "offers": "I can offer",
+  "interests": "Interests",
+  "other": "Other Information",
+  "driversLicense": "Driver's License",
+  "driversLicenseDetails": "Category B - passenger cars",
+  "languagesList": ["Czech - excellent (native)", "English - intermediate"],
+  "strenghtList": [
+    "Active approach",
+    "Willingness to learn",
+    "Diligence",
+    "Independence",
+    "Reliability, responsibility"
+  ],
+  "offerList": [
+    "Logical thinking",
+    "Problem solving through critical thinking",
+    "Ability to work in a team",
+    "Creative thinking"
+  ],
+  "interestsList": ["Card games", "Board games", "Programming", "Music", "Trips"]
+}
