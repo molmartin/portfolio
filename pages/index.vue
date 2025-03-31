@@ -1,6 +1,8 @@
 <template>
   <div>
-    <PageHeader />
+    <!-- 
+    <PageHeader /> -->
+    <PortfolioHeader />
     <MainContainer>
       <main class="p-10 md:p-5">
         <TimelineSection section-key="workExperience" title-key="experience" />
