@@ -18,5 +18,12 @@ export default defineNuxtConfig({
   },
   app: {
     baseURL: '/portfolio/', // Base URL for GitHub Pages
+    head: {
+      title: 'Nuxt', // default fallback title
+      htmlAttrs: {
+        lang: 'en',
+      },
+      link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    },
   },
 })
