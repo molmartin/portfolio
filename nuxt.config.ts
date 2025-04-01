@@ -16,4 +16,7 @@ export default defineNuxtConfig({
     ],
     defaultLocale: 'cs',
   },
+  app: {
+    baseURL: '/portfolio/', // Base URL for GitHub Pages
+  },
 })
