@@ -2,7 +2,7 @@
   <div>
     <PortfolioHeader />
     <MainContainer>
-      <main class="p-10 md:p-5">
+      <main class="py-8 px-4 md:p-5">
         <TimelineSection section-key="workExperience" title-key="experience" />
         <TimelineSection section-key="educationDetails" title-key="education" />
 
