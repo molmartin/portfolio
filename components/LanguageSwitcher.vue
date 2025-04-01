@@ -20,4 +20,5 @@
 <script lang="ts" setup>
 const { locale, availableLocales } = useI18n()
 const switchLocalePath = useSwitchLocalePath()
+// static switcher
 </script>
