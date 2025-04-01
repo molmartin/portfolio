@@ -19,7 +19,7 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/portfolio/', // Base URL for GitHub Pages
     head: {
-      title: 'Nuxt', // default fallback title
+      title: 'Martin Mol', // default fallback title
       htmlAttrs: {
         lang: 'en',
       },
