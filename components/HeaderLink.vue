@@ -1,7 +1,11 @@
 <template>
   <div class="flex items-center whitespace-nowrap">
-    <Icon :name="icon" class="mr-1" :target="external && '_blank'" />
-    <a :href="href" class="hover:text-green-400 transition-colors duration-300">
+    <Icon :name="icon" class="mr-1" />
+    <a
+      :href="href"
+      :target="external && '_blank'"
+      class="hover:text-green-400 transition-colors duration-300"
+    >
       {{ text }}
     </a>
   </div>
